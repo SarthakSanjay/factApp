@@ -9,10 +9,11 @@
   position: absolute;
   top:10px;
   color: white;
-  letter-spacing: 40px;
+  letter-spacing: 35px;
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: center;
 }
 p{
   position: absolute;
